@@ -1,0 +1,11 @@
+nodeName	altName	nodeAttr[nodesPresent, ]
+2292	NA	darkorchid3
+5192	NA	darkorchid3
+5670	NA	darkorchid3
+6019	NA	darkorchid3
+9020	NA	darkorchid3
+9790	NA	darkorchid3
+12447	NA	darkorchid3
+12851	NA	darkorchid3
+14122	NA	darkorchid3
+14272	NA	darkorchid3

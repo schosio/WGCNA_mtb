@@ -1,0 +1,21 @@
+nodeName	altName	nodeAttr[nodesPresent, ]
+461	NA	green2
+1160	NA	green2
+2698	NA	green2
+3665	NA	green2
+3830	NA	green2
+4869	NA	green2
+5415	NA	green2
+6455	NA	green2
+9091	NA	green2
+9514	NA	green2
+10585	NA	green2
+10750	NA	green2
+11286	NA	green2
+12177	NA	green2
+12698	NA	green2
+12981	NA	green2
+13454	NA	green2
+13589	NA	green2
+13715	NA	green2
+14151	NA	green2

@@ -1,0 +1,22 @@
+nodeName	altName	nodeAttr[nodesPresent, ]
+831	NA	mistyrose4
+1161	NA	mistyrose4
+5112	NA	mistyrose4
+5323	NA	mistyrose4
+6636	NA	mistyrose4
+6685	NA	mistyrose4
+7481	NA	mistyrose4
+7836	NA	mistyrose4
+8620	NA	mistyrose4
+8657	NA	mistyrose4
+9233	NA	mistyrose4
+9329	NA	mistyrose4
+9634	NA	mistyrose4
+11399	NA	mistyrose4
+12340	NA	mistyrose4
+13888	NA	mistyrose4
+14422	NA	mistyrose4
+14485	NA	mistyrose4
+14555	NA	mistyrose4
+14667	NA	mistyrose4
+15106	NA	mistyrose4

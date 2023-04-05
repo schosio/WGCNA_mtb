@@ -1,0 +1,19 @@
+nodeName	altName	nodeAttr[nodesPresent, ]
+635	NA	pink1
+1372	NA	pink1
+2951	NA	pink1
+3033	NA	pink1
+3592	NA	pink1
+3684	NA	pink1
+4162	NA	pink1
+5322	NA	pink1
+7829	NA	pink1
+8125	NA	pink1
+9041	NA	pink1
+9533	NA	pink1
+10074	NA	pink1
+10906	NA	pink1
+11144	NA	pink1
+11556	NA	pink1
+11637	NA	pink1
+14976	NA	pink1

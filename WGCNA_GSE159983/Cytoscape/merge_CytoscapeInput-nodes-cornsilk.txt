@@ -1,0 +1,21 @@
+nodeName	altName	nodeAttr[nodesPresent, ]
+54	NA	cornsilk
+3247	NA	cornsilk
+3564	NA	cornsilk
+4053	NA	cornsilk
+4101	NA	cornsilk
+4614	NA	cornsilk
+5746	NA	cornsilk
+6414	NA	cornsilk
+7089	NA	cornsilk
+7136	NA	cornsilk
+7882	NA	cornsilk
+9035	NA	cornsilk
+10050	NA	cornsilk
+11056	NA	cornsilk
+11300	NA	cornsilk
+12123	NA	cornsilk
+12224	NA	cornsilk
+12450	NA	cornsilk
+13087	NA	cornsilk
+15292	NA	cornsilk

@@ -1,0 +1,17 @@
+nodeName	altName	nodeAttr[nodesPresent, ]
+1783	NA	khaki4
+1907	NA	khaki4
+2692	NA	khaki4
+2753	NA	khaki4
+3410	NA	khaki4
+5922	NA	khaki4
+7634	NA	khaki4
+8768	NA	khaki4
+9040	NA	khaki4
+10024	NA	khaki4
+10068	NA	khaki4
+10680	NA	khaki4
+11299	NA	khaki4
+12680	NA	khaki4
+12720	NA	khaki4
+13143	NA	khaki4

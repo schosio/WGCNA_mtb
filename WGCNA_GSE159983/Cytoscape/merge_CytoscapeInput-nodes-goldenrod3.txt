@@ -1,0 +1,11 @@
+nodeName	altName	nodeAttr[nodesPresent, ]
+1429	NA	goldenrod3
+2904	NA	goldenrod3
+2915	NA	goldenrod3
+4666	NA	goldenrod3
+6700	NA	goldenrod3
+7299	NA	goldenrod3
+7990	NA	goldenrod3
+9371	NA	goldenrod3
+10188	NA	goldenrod3
+14167	NA	goldenrod3

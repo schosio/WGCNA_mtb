@@ -1,0 +1,13 @@
+nodeName	altName	nodeAttr[nodesPresent, ]
+80	NA	darkgoldenrod
+1637	NA	darkgoldenrod
+3554	NA	darkgoldenrod
+5040	NA	darkgoldenrod
+6442	NA	darkgoldenrod
+7476	NA	darkgoldenrod
+7673	NA	darkgoldenrod
+8840	NA	darkgoldenrod
+11512	NA	darkgoldenrod
+14968	NA	darkgoldenrod
+15208	NA	darkgoldenrod
+15487	NA	darkgoldenrod
