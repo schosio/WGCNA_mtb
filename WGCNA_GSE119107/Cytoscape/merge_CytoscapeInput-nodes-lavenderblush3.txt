@@ -1,0 +1,27 @@
+nodeName	altName	nodeAttr[nodesPresent, ]
+Rv0239	NA	lavenderblush3
+Rv0310c	NA	lavenderblush3
+Rv0317c	NA	lavenderblush3
+Rv0559c	NA	lavenderblush3
+Rv0909	NA	lavenderblush3
+Rv1202	NA	lavenderblush3
+Rv1441c	NA	lavenderblush3
+Rv1555	NA	lavenderblush3
+Rv1598c	NA	lavenderblush3
+Rv1706c	NA	lavenderblush3
+Rv1777	NA	lavenderblush3
+Rv1879	NA	lavenderblush3
+Rv1887	NA	lavenderblush3
+Rv2026c	NA	lavenderblush3
+Rv2137c	NA	lavenderblush3
+Rv2140c	NA	lavenderblush3
+Rv2298	NA	lavenderblush3
+Rv2326c	NA	lavenderblush3
+Rv2386c	NA	lavenderblush3
+Rv2718c	NA	lavenderblush3
+Rv3004	NA	lavenderblush3
+Rv3073c	NA	lavenderblush3
+Rv3405c	NA	lavenderblush3
+Rv3820c	NA	lavenderblush3
+Rv3840	NA	lavenderblush3
+Rv3842c	NA	lavenderblush3

@@ -1,0 +1,26 @@
+nodeName	altName	nodeAttr[nodesPresent, ]
+Rv0058	NA	honeydew1
+Rv0268c	NA	honeydew1
+Rv0295c	NA	honeydew1
+Rv0441c	NA	honeydew1
+Rv0606	NA	honeydew1
+Rv0607	NA	honeydew1
+Rv0829	NA	honeydew1
+Rv1097c	NA	honeydew1
+Rv1210	NA	honeydew1
+Rv1481	NA	honeydew1
+Rv1747	NA	honeydew1
+Rv1836c	NA	honeydew1
+Rv1839c	NA	honeydew1
+Rv2024c	NA	honeydew1
+Rv2150c	NA	honeydew1
+Rv2735c	NA	honeydew1
+Rv2736c	NA	honeydew1
+Rv2978c	NA	honeydew1
+Rv2981c	NA	honeydew1
+Rv3141	NA	honeydew1
+Rv3296	NA	honeydew1
+Rv3585	NA	honeydew1
+Rv3586	NA	honeydew1
+Rv3810	NA	honeydew1
+Rv3877	NA	honeydew1

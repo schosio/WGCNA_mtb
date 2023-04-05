@@ -1,0 +1,26 @@
+nodeName	altName	nodeAttr[nodesPresent, ]
+Rv0010c	NA	mediumorchid
+Rv0057	NA	mediumorchid
+Rv0059	NA	mediumorchid
+Rv0230c	NA	mediumorchid
+Rv0608	NA	mediumorchid
+Rv0710	NA	mediumorchid
+Rv0920c	NA	mediumorchid
+Rv1095	NA	mediumorchid
+Rv1634	NA	mediumorchid
+Rv1807	NA	mediumorchid
+Rv1921c	NA	mediumorchid
+Rv2040c	NA	mediumorchid
+Rv2481c	NA	mediumorchid
+Rv2619c	NA	mediumorchid
+Rv2789c	NA	mediumorchid
+Rv2792c	NA	mediumorchid
+Rv2931	NA	mediumorchid
+Rv2942	NA	mediumorchid
+Rv3037c	NA	mediumorchid
+Rv3239c	NA	mediumorchid
+Rv3398c	NA	mediumorchid
+Rv3434c	NA	mediumorchid
+Rv3756c	NA	mediumorchid
+Rv3812	NA	mediumorchid
+Rv3839	NA	mediumorchid

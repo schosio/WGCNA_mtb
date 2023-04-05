@@ -1,0 +1,23 @@
+nodeName	altName	nodeAttr[nodesPresent, ]
+Rv0339c	NA	firebrick4
+Rv0538	NA	firebrick4
+Rv0732	NA	firebrick4
+Rv0925c	NA	firebrick4
+Rv1086	NA	firebrick4
+Rv1225c	NA	firebrick4
+Rv1362c	NA	firebrick4
+Rv1591	NA	firebrick4
+Rv1731	NA	firebrick4
+Rv1845c	NA	firebrick4
+Rv1899c	NA	firebrick4
+Rv2063c	NA	firebrick4
+Rv2665	NA	firebrick4
+Rv2693c	NA	firebrick4
+Rv2694c	NA	firebrick4
+Rv2711	NA	firebrick4
+Rv2918c	NA	firebrick4
+Rv3029c	NA	firebrick4
+Rv3230c	NA	firebrick4
+Rv3292	NA	firebrick4
+Rv3426	NA	firebrick4
+Rv3499c	NA	firebrick4

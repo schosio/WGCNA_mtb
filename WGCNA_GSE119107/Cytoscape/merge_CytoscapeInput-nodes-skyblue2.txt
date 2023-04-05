@@ -1,0 +1,25 @@
+nodeName	altName	nodeAttr[nodesPresent, ]
+Rv0305c	NA	skyblue2
+Rv0801	NA	skyblue2
+Rv1108c	NA	skyblue2
+Rv1436	NA	skyblue2
+Rv1448c	NA	skyblue2
+Rv1483	NA	skyblue2
+Rv1581c	NA	skyblue2
+Rv1597	NA	skyblue2
+Rv1722	NA	skyblue2
+Rv1968	NA	skyblue2
+Rv2061c	NA	skyblue2
+Rv2200c	NA	skyblue2
+Rv2396	NA	skyblue2
+Rv3213c	NA	skyblue2
+Rv3241c	NA	skyblue2
+Rv3464	NA	skyblue2
+Rv3465	NA	skyblue2
+Rv3613c	NA	skyblue2
+Rv3614c	NA	skyblue2
+Rv3615c	NA	skyblue2
+Rv3616c	NA	skyblue2
+Rv3682	NA	skyblue2
+Rv3683	NA	skyblue2
+Rv3835	NA	skyblue2

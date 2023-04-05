@@ -1,0 +1,26 @@
+nodeName	altName	nodeAttr[nodesPresent, ]
+Rv0299	NA	coral2
+Rv0303	NA	coral2
+Rv0382c	NA	coral2
+Rv0569	NA	coral2
+Rv0600c	NA	coral2
+Rv0690c	NA	coral2
+Rv0695	NA	coral2
+Rv0697	NA	coral2
+Rv0811c	NA	coral2
+Rv0819	NA	coral2
+Rv0832	NA	coral2
+Rv1123c	NA	coral2
+Rv1528c	NA	coral2
+Rv1945	NA	coral2
+Rv2103c	NA	coral2
+Rv2202c	NA	coral2
+Rv3103c	NA	coral2
+Rv3291c	NA	coral2
+Rv3358	NA	coral2
+Rv3366	NA	coral2
+Rv3394c	NA	coral2
+Rv3402c	NA	coral2
+Rv3501c	NA	coral2
+Rv3628	NA	coral2
+Rv3638	NA	coral2
